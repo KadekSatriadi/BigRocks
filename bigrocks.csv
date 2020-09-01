@@ -1,0 +1,8 @@
+﻿name,country,state,latitude,longitude,major_axis,minor_axis,elevation,remark
+Bukit Kelam,Indonesia,Kalimantan,0.0790618,111.6439769,3400,1360,1002,
+Stone Mountain,United States,Georgia,33.805184,-84.147832,2740,1190,318,
+Stawamus Chief,Canada,British Columbia,49.685762,-123.1349478,2860,1130,702,
+El Peñón de Guatapé (Piedra del Peñol),Colombia,Antioquia,6.21955,-75.179424,287,98,2135,
+Peña de Bernal,Mexico,Querétaro,20.749943,-99.947068,651,600,2510,sparse chunks
+Rock of Gibraltar,Gibraltar,Gibraltar ,36.133342,-5.345886,2900,866,426,
+Ben Amera,Mauritania,,21.224165,-13.663888,,,633,elevation from desert floor
